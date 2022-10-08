@@ -1,6 +1,6 @@
 # Password-Generator-Project
 
-Password Generator Project by Eric Guan
+Password Generator Project by Eric Guan (2022)
 
 This personal project is a Java remake of an old Scratch assignment I did with a friend in High School:
 

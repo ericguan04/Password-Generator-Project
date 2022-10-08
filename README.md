@@ -14,10 +14,24 @@ Creating a strong password is becoming increasingly important in today's digital
 
 Enter a term that relates to the purpose of this password (ex. Website Name)
 
-This term will be lower-cased and mutated several times to create the password
+*ex. Youtube*
+
+This term will be lower-cased and mutated several times to create the password: 
+
+*ex. youtube*
 
 1. The term's vowels will all be extracted and capitalized. This will be the first part of the password.
+
+*ex. OUUE*
+
 2. The term will be reversed. This will be the second part of the password.
-3. The term's length will correspond with a special character (see character's above 0-9 on keyboard). The length of the term * 2 will be added at the end. This will be the third part of the password.
+
+*ex. ebutuoy*
+
+3. The term's length will correspond with a special character (see character's above 0-9 on keyboard). If the term length is over 10 characters long, subtract 10 from the length and use that value. Repeat until the number is 1-10. The length of the term * 2 also will be added at the end. This will be the third part of the password.
+
+*ex. &14*
 
 The password will be a concatenation of all these "algorithms" in that order.
+
+*ex. OUUEebutuoy&14*

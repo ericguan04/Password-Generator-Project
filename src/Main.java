@@ -36,7 +36,7 @@ public class Main
         password += addVowels(term);
         password += stringReversal(term);
         password += specialCharacter(term);
-        System.out.println(password);
+        System.out.println("Your generated password is: " + password);
 
     }
 

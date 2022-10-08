@@ -13,6 +13,7 @@ Creating a strong password is becoming increasingly important in today's digital
 # How it works
 
 Enter a term that relates to the purpose of this password (ex. Website Name)
+
 This term will be lower-cased and mutated several times to create the password
 
 1. The term's vowels will all be extracted and capitalized. This will be the first part of the password.

@@ -2,7 +2,7 @@
 
 Password Generator Project by Eric Guan
 
-This personal project is a Java remake of an old Scratch assignment I did in High School with a friend:
+This personal project is a Java remake of an old Scratch assignment I did with a friend in High School:
 
 https://scratch.mit.edu/projects/339715531
 
